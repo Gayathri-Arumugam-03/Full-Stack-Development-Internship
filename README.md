@@ -20,12 +20,6 @@ Frontend Development
 * Task 12 - Responsive Form
 * Task 13 - Product Listing Page
 * Task 14 - E-Commerce Homepage
-* Task 15 - Shopping Cart UI
-* Task 16 - Checkout Page
-* Task 17 - Payment Integration Frontend
-* Task 18 - React.js Application
-* Task 19 - Vue.js Application
-* Task 20 - Angular Dashboard
 
 Technologies Used
 
